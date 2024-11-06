@@ -1,0 +1,11 @@
+
+抓包：
+
+1.
+icloud分组
+google帐号分组
+
+2.
+
+未设置邮箱帐号时:
+share->email
